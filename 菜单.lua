@@ -1,3 +1,4 @@
+-- 此为示例菜单模板
 function menu(options, isMultiChoice)
   -- 打印欢迎信息和选项列表
   local choices = {}
